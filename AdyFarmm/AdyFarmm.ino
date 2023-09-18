@@ -23,8 +23,8 @@ const char* password = "riady121455";
 #define mati LOW
 
 // Initialize Telegram BOT
-#define BOTtoken "6103962844:AAF_KnnSQPk22JlVBIwge06Pc3y-GXijcOQ"  // your Bot Token (Get from Botfather)
-#define CHAT_ID "1396595909"
+#define BOTtoken "*******************************************"  // your Bot Token (Get from Botfather)
+#define CHAT_ID "**********"
 #define AOUT_PIN 36
 
 WiFiClientSecure client;
